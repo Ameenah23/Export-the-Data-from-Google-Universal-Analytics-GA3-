@@ -100,9 +100,9 @@ We found;
 
  ![image](https://github.com/beam-data/ga3_ameenah_a_202309/assets/123785380/6147c4d8-06ad-487c-9d1c-d3b7408d85d9)
 
-- the Number of Indexed Pages that scraped from weclouddata sitemap is 1008 whereas from google is about max 471, with poor performance (%53.27).
-- the Number of Indexed Pages that scraped from brainstation.io sitemap is 11298 whereas from google is about max 13,700, with extra performance (%121.26).
-- the Number of Indexed Pages that scraped from lighthouselabs.ca sitemap is 1118 whereas from google is about max 2,420, with extra performance (%216.46).
+- the Number of Indexed Pages that scraped from weclouddata sitemap is 1008 whereas from google is about max 471, with poor performance (46.73%).
+- the Number of Indexed Pages that scraped from brainstation.io sitemap is 11298 whereas from google is about max 13,700, with extra performance (121.26%).
+- the Number of Indexed Pages that scraped from lighthouselabs.ca sitemap is 1118 whereas from google is about max 2,420, with extra performance (216.46%).
 
 ### Wrote two Documentations;
 -	 to collect the most important Universal Analytics Glossary

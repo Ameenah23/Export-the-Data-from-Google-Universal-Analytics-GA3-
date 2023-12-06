@@ -44,6 +44,7 @@ We have built different scripts and documents to Extracting Data from Google Uni
 6.	Script to importing Data from a Pandas to a PostgreSql using SQLAlchemy;
 7.	Wrote a document to collect the most important Universal Analytics Glossary;
 8.	Wrote a document to show the difference between the Universal Analytics and Google Analytics 4.
+9.	Wrote a document to Explain Key Errors and Duplicate Rows in fetched Google Universal Analytics reports API.
 
 All scripts and documents of this project are posted to xxxxdata repository on Github "xxxx-data/ga3_ameenah_a_202309"
 https://github.com/xxxx-data/ga3_ameenah_a_202309
@@ -104,10 +105,11 @@ We found;
 - the Number of Indexed Pages that scraped from brainstation.io sitemap is 11298 whereas from google is about max 13,700, with extra performance (121.26%).
 - the Number of Indexed Pages that scraped from lighthouselabs.ca sitemap is 1118 whereas from google is about max 2,420, with extra performance (216.46%).
 
-### Wrote two Documentations;
+### Wrote three Documentations;
 -	 to collect the most important Universal Analytics Glossary
 -	 to show the difference between the Universal Analytics and Google Analytics 4.
--	 
+-	 to Explain the Key Errors and Duplicate Rows in fetched Google Universal Analytics reports API.
+  
 The Universal Analytics (UA) is the previous version of Google Analytics, and was used by many websites for tracking their traffic. After Google Analytics 4 (GA4) released, you might find it challenging to understand all the terminologies attached to the platforms related to the various Google Analytics versions.
 
 There are so many reports and so much data inside the UA and GA4 (GA4). With huge information on the Internet sites of the different Google Analytics versions that makes kind of confusion especially for the beginners. Beside that, one of the primary questions on the minds of marketers, analysts, and developers is: What’s the difference between Universal Analytics to Google Analytics 4?  Thus, we;
@@ -116,6 +118,8 @@ There are so many reports and so much data inside the UA and GA4 (GA4). With hug
 - Write Google Universal Analytics glossary.
  	 
 ![image](https://github.com/beam-data/ga3_ameenah_a_202309/assets/123785380/d94e5b98-a5c1-4985-918e-3354d3a87061)
+![keyerrorrandduplicaterows](https://github.com/Ameenah23/Export-the-Data-from-Google-Universal-Analytics-GA3-/assets/123785380/8816fb43-8890-40f5-a063-1d52377d6cb1)
+
 
 ### CHALLENGES
 Google Analytics put limits and quotas on API requests to protect the system from receiving more data than it can handle, and to ensure an equitable distribution of the system resources.
